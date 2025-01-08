@@ -14,5 +14,21 @@
         "Buy": 4410,
         "Sell": 4470,
         "Trend": 0
+    },
+    {
+        "Currency": "USD 🇺🇸 [9AM,06/01/25] 🆕",
+        "UnitEng": "1$ -> Reference price",
+        "UnitMm": "1$ -> ရည်ညွှန်းဈေး",
+        "Buy": 2100,
+        "Sell": 2100,
+        "Trend": 0
+    },
+    {
+        "Currency": "USD 🇺🇸 ",
+        "UnitEng": "1$ -> MM Pirce Data",
+        "UnitMm": "1$ -> MM Pirce Data",
+        "Buy": 4410,
+        "Sell": 4470,
+        "Trend": 0
     }
 ]
