@@ -14,29 +14,5 @@
         "Buy": 4410,
         "Sell": 4470,
         "Trend": 0
-    },
-    {
-        "Currency": "USD 🇺🇸 ",
-        "UnitEng": "1$ -> Westernunion",
-        "UnitMm": "1$ -> Westernunion",
-        "Buy": 0,
-        "Sell": 0,
-        "Trend": 0
-    } ,
-    {
-        "Currency": "USD 🇺🇸 ",
-        "UnitEng": "1$ -> MM Pirce Data",
-        "UnitMm": "1$ -> MM Pirce Data",
-        "Buy": 4410,
-        "Sell": 4470,
-        "Trend": 0
-    },
-    {
-        "Currency": "USD 🇺🇸 ",
-        "UnitEng": "1$ -> MM Pirce Data",
-        "UnitMm": "1$ -> MM Pirce Data",
-        "Buy": 4410,
-        "Sell": 4470,
-        "Trend": 0
     }
 ]
