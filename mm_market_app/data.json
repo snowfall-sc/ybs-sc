@@ -1,34 +1,194 @@
 [
     {
-        "Currency": "USD 🇺🇸 [9AM,06/01/25] 🆕",
-        "UnitEng": "1$ -> Reference price",
-        "UnitMm": "1$ -> ရည်ညွှန်းဈေး",
-        "Buy": 2100,
-        "Sell": 2100,
+        "Currency": "USD 🇺🇸 [10AM,9/01/25]",
+        "UnitEng": "1$ -> KBZ",
+        "UnitMm": "1$ -> KBZ",
+        "Buy": "3,596.00",
+        "Sell": "3,601.00",
         "Trend": 0
     },
     {
-        "Currency": "USD 🇺🇸 ",
+        "Currency": "USD 🇺🇸 [5PM,9/01/25]",
         "UnitEng": "1$ -> MM Pirce Data",
         "UnitMm": "1$ -> MM Pirce Data",
-        "Buy": 4410,
-        "Sell": 4470,
+        "Buy": "4,490.00",
+        "Sell": "4,560.00",
+        "Trend": -1
+    },
+    {
+        "Currency": "USD 🇺🇸  [10/01/25]",
+        "UnitEng": "1$ -> Westernunion",
+        "UnitMm": "1$ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "4,453.12",
         "Trend": 0
     },
     {
-        "Currency": "USD 🇺🇸 [9AM,06/01/25] 🆕",
-        "UnitEng": "1$ -> Reference price",
-        "UnitMm": "1$ -> ရည်ညွှန်းဈေး",
-        "Buy": 2100,
-        "Sell": 2100,
+        "Currency": "THB 🇹🇭 [10AM,9/01/25]",
+        "UnitEng": "1฿ -> KBZ",
+        "UnitMm": "1฿ -> KBZ",
+        "Buy": "130.00",
+        "Sell": "130.60",
         "Trend": 0
     },
     {
-        "Currency": "USD 🇺🇸 ",
-        "UnitEng": "1$ -> MM Pirce Data",
-        "UnitMm": "1$ -> MM Pirce Data",
-        "Buy": 4410,
-        "Sell": 4470,
+        "Currency": "THB 🇹🇭 [5PM,9/01/25]",
+        "UnitEng": "1฿ -> MM Pirce Data",
+        "UnitMm": "1฿ -> MM Pirce Data",
+        "Buy": "129.03",
+        "Sell": "131.58",
+        "Trend": 0
+    },
+    {
+        "Currency": "THB 🇹🇭 [10/01/25]",
+        "UnitEng": "1฿ -> Westernunion",
+        "UnitMm": "1฿ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "128.54",
+        "Trend": 0
+    },
+    {
+        "Currency": "CNY 🇨🇳 [10AM,9/01/25]",
+        "UnitEng": "1CN¥ -> KBZ",
+        "UnitMm": "1CN¥ -> KBZ",
+        "Buy": "536.40",
+        "Sell": "539.60",
+        "Trend": 0
+    },
+    {
+        "Currency": "CNY 🇨🇳 [5PM,9/01/25]",
+        "UnitEng": "1CN¥ -> MM Pirce Data",
+        "UnitMm": "1CN¥ -> MM Pirce Data",
+        "Buy": "610.00",
+        "Sell": "622.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "SGD 🇸🇬 [10AM,9/01/25]",
+        "UnitEng": "1S$ -> KBZ",
+        "UnitMm": "1S$ -> KBZ",
+        "Buy": "2,623.00",
+        "Sell": "2,632.90",
+        "Trend": 0
+    },
+    {
+        "Currency": "SGD 🇸🇬 [5PM,9/01/25]",
+        "UnitEng": "1S$ -> MM Pirce Data",
+        "UnitMm": "1S$ -> MM Pirce Data",
+        "Buy": "3,235.00",
+        "Sell": "3,295.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "SGD 🇸🇬 [10/01/25]",
+        "UnitEng": "1S$ -> Westernunion",
+        "UnitMm": "1S$ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "3,266.87",
+        "Trend": 0
+    },
+    {
+        "Currency": "INR 🇮🇳 [5PM,9/01/25]",
+        "UnitEng": "1₹ -> MM Pirce Data",
+        "UnitMm": "1₹ -> MM Pirce Data",
+        "Buy": "52.02",
+        "Sell": "53.05",
+        "Trend": 0
+    },
+    {
+        "Currency": "JPY 🇯🇵 [5PM,9/01/25]",
+        "UnitEng": "1JP¥ -> MM Pirce Data",
+        "UnitMm": "1JP¥ -> MM Pirce Data",
+        "Buy": "28.28",
+        "Sell": "28.84",
+        "Trend": 0
+    },
+    {
+        "Currency": "JPY 🇯🇵 [10/01/25]",
+        "UnitEng": "1JP¥ -> Westernunion",
+        "UnitMm": "1JP¥ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "28.16",
+        "Trend": 0
+    },
+    {
+        "Currency": "KRW 🇰🇷 [5PM,9/01/25]",
+        "UnitEng": "1₩ -> MM Pirce Data",
+        "UnitMm": "1₩ -> MM Pirce Data",
+        "Buy": "3.07",
+        "Sell": "3.13",
+        "Trend": 0
+    },
+    {
+        "Currency": "MYR 🇲🇾 [5PM,9/01/25]",
+        "UnitEng": "1RM -> MM Pirce Data",
+        "UnitMm": "1RM -> MM Pirce Data",
+        "Buy": "992.00",
+        "Sell": "1,012.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "GBP 🇬🇧 [5PM,9/01/25]",
+        "UnitEng": "1£ -> MM Pirce Data",
+        "UnitMm": "1£ -> MM Pirce Data",
+        "Buy": "5,525.00",
+        "Sell": "5,635.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "GBP 🇬🇧 [10/01/25]",
+        "UnitEng": "1£ -> Westernunion",
+        "UnitMm": "1£ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "5,509.95",
+        "Trend": 0
+    },
+    {
+        "Currency": "EUR 🇪🇺 [10AM,9/01/25]",
+        "UnitEng": "1€ -> KBZ",
+        "UnitMm": "1€ -> KBZ",
+        "Buy": "3,705.10",
+        "Sell": "3,715.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "EUR 🇪🇺 [5PM,9/01/25]",
+        "UnitEng": "1€ -> MM Pirce Data",
+        "UnitMm": "1€ -> MM Pirce Data",
+        "Buy": "4,610.00",
+        "Sell": "4,705.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "EUR 🇪🇺 [10/01/25]",
+        "UnitEng": "1€ -> Westernunion",
+        "UnitMm": "1€ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "4,157.57",
+        "Trend": 0
+    },
+    {
+        "Currency": "AUD 🇦🇺 [5PM,9/01/25]",
+        "UnitEng": "1AU$ -> MM Pirce Data",
+        "UnitMm": "1AU$ -> MM Pirce Data",
+        "Buy": "2,775.00",
+        "Sell": "2,830.00",
+        "Trend": 0
+    },
+    {
+        "Currency": "AUD 🇦🇺 [10/01/25]",
+        "UnitEng": "1AU$ -> Westernunion",
+        "UnitMm": "1AU$ -> Westernunion",
+        "Buy": "0.00",
+        "Sell": "2,626.17",
+        "Trend": 0
+    },
+    {
+        "Currency": "AED 🇦🇪 [5PM,9/01/25]",
+        "UnitEng": "1د.إ -> MM Pirce Data",
+        "UnitMm": "1د.إ -> MM Pirce Data",
+        "Buy": "1,215.00",
+        "Sell": "1,240.00",
         "Trend": 0
     }
 ]
